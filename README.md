@@ -9,7 +9,7 @@ This repo will include the course work from this course. Used SQL, Java, JDBC,  
 * [Assignment 3 Report](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw3/6_b_trigger.pdf)
 * [Trigger SQL File](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw3/6_a_trigger.sql)
 ## Hw 4: Designing a Java Program to practice JDBC to access MySQL Databse.
-* [Assignemnt 4 Report](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw4/result.pdf)
+* [Assignment 4 Report](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw4/result.pdf)
 * [Create Table SQL File](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw4/1_create_table.sql)
 * [Populate Database SQL File](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw4/2_populate_db.sql)
 * [Create View SQL File](https://github.com/CatTastic23/CSUS-CSC174-Advanced-Database-Management-Systems/blob/main/Hw4/3_create_view.sql)
